@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".git/COMMIT_EDITMSG": "d778d8b1f42d0dd1bb284e5ca9549187",
+  ".git/COMMIT_EDITMSG": "e2953048c1b93481aa0713f0cbfbfff0",
 ".git/config": "a13340fc573381e639792ddc3e4f164a",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
 ".git/HEAD": "4cf2d64e44205fe628ddd534e1151b58",
@@ -20,7 +20,7 @@ const RESOURCES = {
 ".git/hooks/prepare-commit-msg.sample": "2b5c047bdb474555e1787db32b2d2fc5",
 ".git/hooks/push-to-checkout.sample": "c7ab00c7784efeadad3ae9b228d4b4db",
 ".git/hooks/update.sample": "647ae13c682f7827c22f5fc08a03674e",
-".git/index": "86b0c66bd1be86fedf422b17fe21451f",
+".git/index": "d67b890eab6ea0aa68d181171b3e4bf5",
 ".git/info/exclude": "036208b4a1ab4a235d75c181e685e5a3",
 ".git/logs/HEAD": "4eb132f6431b0db4d1db8f44761380a3",
 ".git/logs/refs/heads/master": "4eb132f6431b0db4d1db8f44761380a3",
@@ -92,9 +92,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "823d0cb3bf1a352a095d078f4a40383d",
-"/": "823d0cb3bf1a352a095d078f4a40383d",
-"main.dart.js": "795717941b17bd946c8e410b308bb9fb",
+"index.html": "c3588bb492c26ec6dd5d46d1a42fb5e6",
+"/": "c3588bb492c26ec6dd5d46d1a42fb5e6",
+"main.dart.js": "0d97b30ad451f942cd02fdd027834ff6",
 "manifest.json": "91c1deaa5e1f276b64d766a83a882402",
 "version.json": "fa19a50102306b9095ffef5d590f0981"
 };
